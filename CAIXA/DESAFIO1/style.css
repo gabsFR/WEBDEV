@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 25px;
+
+}
+
+.holanda div {
+    width: 300px;
+    height: 50px;
+    border: solid black 0.5px;
+
+}
+
+.holanda .vermeio {
+    background-color: rgb(200, 0, 0);
+}
+
+.holanda .blanco {
+    background-color: #ffffff;
+}
+
+.azur {
+    background-color: rgb(34, 0, 183);
+}
+
+.alemanha div{
+    width: 300px;
+    height: 50px;
+    border: solid black 0.1px;
+}
+
+.preto{
+    margin-top: 10px;
+    background-color: black;
+}
+.alemanha .vermeio{
+    background-color: rgb(235, 0, 0);
+}
+.yellow{
+    background-color: rgb(255, 219, 13);
+}
+
+.jojop5 div{
+    width: 100px;
+    height: 150px;
+    position: relative;
+    float: left;
+    border: solid black 0.1px;
+    margin-top: 10px;
+
+}
+.verde{
+    background-color: green;
+}
+.jojop5 .blanco{
+    background-color: #fff8f8;
+}
+.jojop5 .vermeio{
+    background-color: rgb(246, 48, 48);
+
+}
