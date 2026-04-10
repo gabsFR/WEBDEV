@@ -1,0 +1,61 @@
+.Card {
+    border: 2px solid rgb(180, 180, 180);
+    height: 200px;
+    width: 350px;
+    background-color: #d5495f;
+    border-radius: 4.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    position: relative;
+}
+
+.negocios {
+    color: azure;
+    margin-left: 5px;
+}
+
+.num {
+    margin-top: 60px;
+    color: azure;
+    margin-left: 5px;
+}
+
+.data {
+    color: azure;
+    margin-left: 5px;
+
+}
+
+.nome {
+
+    border: solid #F0BC59;
+    background-color: #F0BC59;
+    height: 52px;
+}
+
+.ball1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ff4848;
+    right: 40px;
+    bottom: 0;
+    position: absolute;
+}
+
+.ball2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffeb55d2;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.logo {
+    width: 100px;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
