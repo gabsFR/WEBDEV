@@ -1,0 +1,40 @@
+.box {
+    border: solid 2px rgb(92, 92, 92);
+    height: 380px;
+    width: 125px;
+    background-color: rgb(41, 41, 41);
+    border-radius: 5%;
+    margin: 20px auto;
+}
+
+.vermeio {
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border: solid 2px rgb(201, 0, 0);
+    border-radius: 50%;
+
+}
+
+.amarelo {
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(255, 222, 8);
+    height: 100px;
+    width: 100px;
+    border: solid 2px rgb(255, 209, 6);
+    border-radius: 50%;
+
+}
+
+.verde {
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(0, 211, 7);
+    height: 100px;
+    width: 100px;
+    border: solid 2px rgb(2, 179, 8);
+    border-radius: 50%;
+}
