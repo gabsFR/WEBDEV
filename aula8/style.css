@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+/* .menu li{
+    font-weight: bold;
+    padding: 20px;
+    transition: all ease 1s;
+}
+
+.menu li:first-child{
+    background-color: aqua;
+}
+
+.menu li:last-child{
+    background-color: darkorange;
+}
+.menu li:nth-child(odd){
+    background-color: rgb(17, 255, 0);
+}
+.menu li:nth-child(even){
+    background-color: rgb(0, 242, 255);
+}
+.menu li:hover{
+background-color: black;
+color: aliceblue;
+font-size: 50px;
+
+
+} */
+
+/* div{
+    height: 100px;
+}
+
+.um{
+    width: 100px;
+    background-color: rgb(197, 136, 255);
+}
+.dois{
+    width: 200px;
+    background-color: rgb(183, 105, 255);
+}
+.tres{
+    width: 300px;
+    background-color: rgb(151, 41, 253);
+} */
+
+.ron{
+    width: 50vw;
+    height: 50vh;
+    background-color: rgb(200, 118, 255);
+    border: solid 1px;
+}
+.aldo{
+    width: 50%;
+    height: calc(100% - 50px - 10px);
+    background-color: rgb(158, 94, 255);
+    margin-top: 10px;
+    border: solid 1px;
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: slateblue;
+    border: solid 1px;
+}
