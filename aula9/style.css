@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: #8CE7DB;
+    margin-top: 250px;
+    justify-items: center;
+}
+.grupo label + input, .grupo label + select
+{
+    display: block;
+    width: 300px;
+    padding: 5px 15px;
+
+}
+
+.grupo label + input:focus{
+    border: solid 3px #018B76;
+    outline: none;
+
+}
+
+.grupo{
+    margin-bottom: 15px;
+}
+
+input[type="submit"]{
+    padding: 5px 15px ;
+}
+form{
+    border: 2px solid #018B76;
+    padding: 20px;
+    background-color: #ecfffc;
+}
